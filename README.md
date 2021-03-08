@@ -1,18 +1,14 @@
 # Forismatic Client
 ## _GUI-based quote generator_
 
-[![N|Solid](https://hsto.org/web/c90/c58/4ad/c90c584ad04e44249bb11d97461ee0e3.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![N|Solid](https://hsto.org/web/c90/c58/4ad/c90c584ad04e44249bb11d97461ee0e3.png)]
 
 Forismatic collects the most inspiring expressions of mankind.
 
 There are not any catalogues of phrases or lists of authors on the site, full of sages and philosophers’ thoughts, writers and outstanding people’s aphorisms. We don’t believe in a random choice. Only you can guide your destiny. Just listen to yourself and one of the most inspiring expressions of mankind will be the sign for you.
 
-<h4>This is how it looks like: </h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meirbeking/forismaticCLient/images/main.png" />
-</p>
+# This is how it looks like:
+[![N|Solid](https://raw.githubusercontent.com/meirbeking/forismaticCLient/images/main.png)]
 
 Tools I used while making the project:
 
