@@ -65,7 +65,7 @@ public class Controller{
         /* Adding inital text to the quote viewer */
         quotes.add("Click next to get a quote...");
         ++id; // increment the id
-        /* estabilishing connection with DBMS */
+        /* Estabilishing connection with DBMS */
         connection = obj_ConnectDB.get_connection();
         /* working with dbms */
         try{
