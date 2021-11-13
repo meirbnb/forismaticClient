@@ -43,13 +43,13 @@ public class Pref_Controller {
     @FXML
     private Button removeAll;
 
-    // initializing process goes as follows
+    // Initializing process goes as follows
     @FXML
     void initialize() {
         /* Establishing the connection with databse */
         Main.ConnectDB obj_ConnectDB = new Main.ConnectDB();
         Connection connection = obj_ConnectDB.get_connection();
-        /* starting the work with DBMS */
+        /* Starting the work with DBMS */
         try{
             Statement statement = connection.createStatement();
             String query = "SELECT quote FROM bookmarks"; // fetching all data from DB
