@@ -6,7 +6,7 @@ public class Settings{
     private String lang = "English"; // default language is English
     private boolean dropBookmarks = false; // set false so that bookmarks will not be vanished
 
-    // singleton method to return single instance of an object
+    // Singleton method to return single instance of an object
     public static synchronized Settings getInstance(){
         if (setting == null)
             setting = new Settings();
