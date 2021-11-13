@@ -13,7 +13,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception{
-        // Setting up the Main Window of the program
+        // Setting Up the Main Window of the program
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         primaryStage.setTitle("Forismatic Client");
         primaryStage.setResizable(false);
